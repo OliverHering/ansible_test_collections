@@ -1,0 +1,6 @@
+requirements/requirements.generated.yaml
+playbook.retry
+.idea/
+*.iml
+/.project
+/*.retry
